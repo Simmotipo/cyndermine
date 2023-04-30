@@ -1,0 +1,15 @@
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\obj\Debug\net7.0\deliveryServer.csproj.AssemblyReference.cache
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\obj\Debug\net7.0\deliveryServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\obj\Debug\net7.0\deliveryServer.AssemblyInfoInputs.cache
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\obj\Debug\net7.0\deliveryServer.AssemblyInfo.cs
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\obj\Debug\net7.0\deliveryServer.csproj.CoreCompileInputs.cache
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\bin\Debug\net7.0\deliveryServer.exe
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\bin\Debug\net7.0\deliveryServer.deps.json
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\bin\Debug\net7.0\deliveryServer.runtimeconfig.json
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\bin\Debug\net7.0\deliveryServer.dll
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\bin\Debug\net7.0\deliveryServer.pdb
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\obj\Debug\net7.0\deliveryServer.dll
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\obj\Debug\net7.0\refint\deliveryServer.dll
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\obj\Debug\net7.0\deliveryServer.pdb
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\obj\Debug\net7.0\deliveryServer.genruntimeconfig.cache
+C:\Users\simmo\source\repos\deliveryServer\deliveryServer\obj\Debug\net7.0\ref\deliveryServer.dll
